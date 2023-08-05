@@ -1,0 +1,7 @@
+q.no,question,a,b,c,d,ans
+1,Which is the capital of India?,Delhi,Mumbai,Chennai,Hyderabad,a
+2,What is 3*12?,34,89,36,23,c
+3,How many layers are there in TCP/IP ?,4,1,2,3,a
+4,What is the last letter of the alphabet?,x,c,f,z,d
+5,Which of the following protocols is reliable?,TCP,UDP,IP,SMTP,a
+END_OF_QUIZ___
